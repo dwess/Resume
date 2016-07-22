@@ -1,0 +1,5 @@
+c:\users\denny\documents\visual studio 2015\Projects\ResumeBuilder\ResumeBuilder\bin\Debug\ResumeBuilder.exe.config
+c:\users\denny\documents\visual studio 2015\Projects\ResumeBuilder\ResumeBuilder\bin\Debug\ResumeBuilder.exe
+c:\users\denny\documents\visual studio 2015\Projects\ResumeBuilder\ResumeBuilder\bin\Debug\ResumeBuilder.pdb
+c:\users\denny\documents\visual studio 2015\Projects\ResumeBuilder\ResumeBuilder\obj\Debug\ResumeBuilder.exe
+c:\users\denny\documents\visual studio 2015\Projects\ResumeBuilder\ResumeBuilder\obj\Debug\ResumeBuilder.pdb
